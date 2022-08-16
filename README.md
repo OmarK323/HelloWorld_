@@ -33,7 +33,7 @@ Pushing Commits to Github was a bit tricky at first due to some unexpected error
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2022] [Omar Khan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
